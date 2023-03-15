@@ -50,4 +50,3 @@ Set-Alias linkfinder 'C:\Users\Américo Júnior\pwsh-scripts/linkfinder.ps1'
 
 ## Environment Variables
 $env:CHROME = 'C:\Program Files\Google\Chrome\Application\chrome.exe'
-$env:OPENAI_KEY = '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'
